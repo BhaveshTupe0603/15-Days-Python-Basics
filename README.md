@@ -53,23 +53,9 @@ By the end of Day-15, learners will be able to:
 
 ---
 
-## Repository Folder & File Naming Format
-
-| Day | Folder Name | Inside Files |
-|-----|-------------|--------------|
-| 1 | Day1 | Python basics - Day 1.ipynb |
-| 2 | Day2 | Inputs & Operators - Day 2.ipynb |
-| … | … | … |
-| 15 | Day15 | Final Project.ipynb |
 
 Example folder structure:
 Day1 / Python basics - Day 1.ipynb
-
----
-
-## Credits
-All content created by **Human GPT – Bhavesh**  
-No AI involvement — 100% human-written learning content
 
 ---
 
